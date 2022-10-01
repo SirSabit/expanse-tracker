@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  background-color: #aec09a;
+  color: white;
+  font-family: -apple-system, -BlinkMacSystemFont,
+    -apple-system-body -apple-system-headline -apple-system-headline -apple-system-subheadline -apple-system-caption1 -apple-system-caption2 -apple-system-footnote -apple-system-short-body -apple-system-short-headline -apple-system-short-subheadline -apple-system-short-caption1 -apple-system-short-footnote -apple-system-tall-body;
+  position: fixed;
+  min-width: 99.9%;
+  min-height: 99.9%;
+  font-weight: bold;
+}
+
+.fillButton {
+  width: 80%;
+  margin: 20px;
+  margin-left: 10%;
+  size: 225px;
+  font-size: 18px;
+  text-align: center;
+}

@@ -1,0 +1,23 @@
+.scroolTable {
+  height: 300px;
+  overflow-y: scroll;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+thead {
+  color: white;
+  background-color: #778d45;
+  padding: 5px;
+  margin: 5px;
+}
+
+tbody {
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+
+tbody :hover {
+  background-color: #344c11;
+  color: white;
+}

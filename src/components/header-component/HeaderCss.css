@@ -1,0 +1,18 @@
+.headerClass {
+  margin: 25px;
+  padding: 25px;
+  color: white;
+  background-color: #778d45;
+}
+button {
+  margin: 15px;
+  background-color: #778d45;
+  color: white;
+  border: none;
+}
+
+button:hover {
+  background-color: #344c11;
+  color: white;
+  cursor: pointer;
+}
